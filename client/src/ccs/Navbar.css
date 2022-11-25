@@ -57,6 +57,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 0.5rem;
 }
 .input-search {
   width: 100%;
@@ -67,3 +68,4 @@
   /* border: none; */
   border-radius: 12px;
 }
+
